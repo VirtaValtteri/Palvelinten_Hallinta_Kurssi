@@ -1,0 +1,2 @@
+# Palvelinten_Hallinta_Kurssi
+Kotitehtävä raportit palvelinten hallinta kurssissa
